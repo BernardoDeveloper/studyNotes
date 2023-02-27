@@ -11,12 +11,8 @@
             "id": "88002d5df38970b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo de Estudos 🎯.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciclo de Estudos 🎯.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciclo de Estudos 🎯.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ciclo de Estudos 🎯.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,26 +140,28 @@
   },
   "active": "e4fb75c912e52535",
   "lastOpenFiles": [
+    "Study/How Computers Works/Computer Introduction 👾.md",
+    "Study/Bash/Untitled.md",
+    "Study/Matemática Discreta",
+    "Study/HTTP",
+    "Study/How Computers Works",
+    "Study/Design Pattern",
+    "Study/Clang",
+    "Study/Bash",
+    "Study/Algorithm",
+    "Study",
+    "Ciclo de Estudos 🎯.md",
     "_config.yml",
     "README.md",
     "Study 🤓/Bash/Untitled.md",
-    "Ciclo de Estudos 🎯.md",
     "Study 🤓/How Computers Works/Computer Introduction 👾.md",
     "Study 🤓/Algorithm",
     "Study 🤓/Untitled.md",
-    "Study 🤓/How Computers Works",
-    "Study 🤓/Bash",
-    "Study 🤓/HTTP",
-    "Study 🤓/Matemática Discreta",
-    "Study 🤓/Clang",
-    "Study 🤓/Design Pattern",
-    "Study 🤓",
     "Programing/C language/Essentials 🧠.md",
     "Programing/Docker.md",
     "Organization 📑.md",
     "Como aprender 📚.md",
     "Programing/Untitled.md",
-    "Programing/C language",
     "Programing/golang/Concurrency.md",
     "Office 365/Word.md",
     "Office 365/Geral - Office 365.md",
